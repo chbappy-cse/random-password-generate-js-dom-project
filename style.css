@@ -61,6 +61,11 @@ body{
     cursor: pointer;
     border-radius: 5px;
 }
+@media(max-width: 1400px){
+    .container{
+        margin: 5%;
+    }
+}
 
 @media(max-width: 768px){
     .container{
